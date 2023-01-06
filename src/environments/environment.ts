@@ -5,15 +5,15 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyCRA-ap5YTuCP20P7FQzxL4oh8CC9dsp6A",
-    authDomain: "angularshop-4e6b0.firebaseapp.com",
-    databaseURL: "https://angularshop-4e6b0.firebaseio.com",
-    projectId: "angularshop-4e6b0",
-    storageBucket: "angularshop-4e6b0.appspot.com",
-    messagingSenderId: "540386600560"
+    apiKey: "AIzaSyCWVehAn9mEGvorVnYB8Qq4D9cHMHo2HIE",
+    authDomain: "onlinestore-b74ef.firebaseapp.com",
+    databaseURL: "https://onlinestore-b74ef-default-rtdb.firebaseio.com",
+    projectId: "onlinestore-b74ef",
+    storageBucket: "onlinestore-b74ef.appspot.com",
+    messagingSenderId: "548781810",
   },
   // Register for Stripe Developer Account and get the key
-  stripeKey: 'Your Stripe Key'
+  stripeKey: 'pk_test_51MN6LfJuq8G5bAaHm0JxZqvDbf8QAVfCIpbALfmfV3p3hlG8I9EOA4Jc5uIagV7GN2dxKQCrVjssN7IrnxXSiTcy00b000V4rC'
 };
 
 /*
